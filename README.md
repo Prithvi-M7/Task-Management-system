@@ -60,7 +60,3 @@ Task added
  Author
 Prithvi M 
 Final Year Computer Science Student
-
-
-## License
-This project is created for educational purposes.
